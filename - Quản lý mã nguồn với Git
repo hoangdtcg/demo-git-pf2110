@@ -1,5 +1,5 @@
 - Quản lý mã nguồn với Git
-    - Git: Phần mềm(công cụ) quản lý mã nguồn.
+    - Git: Phần mềm(công cụ) quản lý mã nguồn. (Thêm sửa xoá)
     - Github: Nơi lưu trữ.
 
     B1: Khởi tạo repo: git init
@@ -11,4 +11,4 @@
     B5: Kiểm tra lại: git status
     B6: Đóng gói - dán nhãn: git commit -m "nội dung nhãn"
     B7; Vận chuyển - đưa lên github: git push origin main
-    
+
